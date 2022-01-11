@@ -15,7 +15,7 @@ namespace WinFormsApp2
         public Form1()
         {
             InitializeComponent();
-            int a = 5;
+            int b = 15;
         }
 
     }
